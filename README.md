@@ -1,4 +1,4 @@
-Fixed-Point and Objective Convergence of Plug-and-Play Algorithms
+**Fixed-Point and Objective Convergence of Plug-and-Play Algorithms
 
 P. Nair, R. G. Gavaskar and K. N. Chaudhury, "Fixed-Point and Objective Convergence of Plug-and-Play Algorithms," , IEEE Transactions on Computational Imaging, Accepted (2021).
 
