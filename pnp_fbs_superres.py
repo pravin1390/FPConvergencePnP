@@ -92,7 +92,7 @@ def pnp_fbs_superresolution(im_input, im_ref, fx, fy, mask, **opts):
     return x
 
 if __name__ == "__main__":
-    dir_name = 'testsets/'
+    dir_name = 'testsets/Set12/'
     outdir_name = 'output_images/'
     imagename = '11.png'
     input_str = dir_name + imagename
